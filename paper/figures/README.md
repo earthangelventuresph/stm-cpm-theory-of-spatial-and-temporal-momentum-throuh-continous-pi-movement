@@ -1,0 +1,18 @@
+# Figures - STM-CPM v1.0 (§5, §8, §11-12)
+
+**Status: No data. All figures are diagrams / analytic illustrations, NOT data plots. Figures 8 and 9 are computed from equations, not measurements. Figure 10 is a decision-rule diagram, not a result. All drawings black on white. Each followed by interpretation in manuscript.**
+
+| File (to be created) | Caption (from manuscript) | How to cite |
+| --- | --- | --- |
+| Diagram-01-Emblem.png | Figure 1. Emblem: one revolution of phase split into two pi-steps of Δθ = π. Solid arc = step 1, dashed arc = step 2. Tick marks every 15 degrees show phase advance is continuous, not jumpy. Symbol, not a data plot. | Pangan (2026), Fig. 1 |
+| Diagram-02-Core-Geometry.png | Figure 2. Core geometry. (a) Point at radius R and phase θ on phase circle. (b) Projection x = R cos θ against phase, showing two pi-steps per revolution. Circle is bookkeeping for phase; object does not physically move on a circle. | Pangan (2026), Fig. 2 |
+| Diagram-03-Pi-Step-Operator.png | Figure 3. Pi-step operator Pπ advances phase by π. Table lists how each quantity transforms: reverses x, v, p; leaves E, J, ω unchanged; Pπ² = identity. | Pangan (2026), Fig. 3 |
+| Diagram-04-Four-Momentum-Hyperbola.png | Figure 4. Four-momentum hyperbola. p and pt are two components of one invariant vector; rapidity ζ sets ratio. pt² − p² = (mc)². At lab speeds pt ≈ mc; oscillation adds ωJ/c. | Pangan (2026), Fig. 4 |
+| Diagram-05-Phase-Space-Action.png | Figure 5. Phase-space trajectory of harmonic oscillator. Enclosed area = 2πJ. Hatched half swept during one pi-step = πJ. | Pangan (2026), Fig. 5 |
+| Diagram-06-Model-Architecture.png | Figure 6. Architecture of phase-state forecasting model. Measurements to quadrature to causal phase tracker to amplitude gate to phase features. B0, B1, M2 scored on held-out data; decision rule applied. Phase estimated only from past data. | Pangan (2026), Fig. 6 |
+| Diagram-07-Experimental-System.png | Figure 7. Experimental system for E1/E2. Function generator to amplifier to electrodynamic shaker + spring-mass oscillator to laser displacement sensor (≤10 µm, ≥1 kHz) + accelerometer to 24-bit synchronized DAQ (crystal ≤10 ppm) to processing computer (preregistered code, sealed test data) to archive (raw data, code, hashes, read-only). Randomization schedule; environment log; controls: shaker off, δ = 0. | Pangan (2026), Fig. 7 |
+| Diagram-08-Analytic-Phase-Error.png | Figure 8. Analytic phase error of fixed-period model under sinusoidal drift (upper) and completed pi-steps for δ = 0.10 vs fixed-period count (lower). Computed from Eqs. 29 and 37; no measured data. Upper: error returns to zero then rises again each drift period; peak scales with δ; dashed line = quarter pi-step. Lower: two pi-step counts differ by <1 pi-step at this scale; difference is modulation of timing, not large long-run offset. Nothing is experimental result. | Pangan (2026), Fig. 8 |
+| Diagram-09-Sample-Size-Planning.png | Figure 9. Required number of test samples vs loss-differential autocorrelation for three ratios σd/μd. Computed from Eqs. 32-33; planning curve, not data. Strong autocorrelation multiplies requirement by (1+ρ)/(1−ρ). | Pangan (2026), Fig. 9 |
+| Diagram-10-Decision-Regions.png | Figure 10. Decision regions for Δ at pivotal drift δ = 0.10, two-stage rule. Three regions exhaustive; Stage 2 triggers more data once; after Stage 2 only Supported / Not supported. Prevents open-ended search for significance. | Pangan (2026), Fig. 10 |
+
+**Reproduction rule:** Recreate from captions and equations above in black on white. Do not present any figure as measured data. Cite as: Pangan, A. (2026), STM-CPM v1.0, Figure N. CC BY 4.0.
