@@ -1,0 +1,2 @@
+# stm-cpm-theory-of-spatial-and-temporal-momentum-throuh-continous-pi-movement
+Temporal momentum without ambiguity as pt = E/c = γmc, the time component of four-momentum. It defines phase momentum as the action variable J, conjugate to phase. It defines continuous pi movement as phase advancing continuously through successive pi-steps of π radians, each lasting τπ = π/ω and carrying action Sπ = πJ.
