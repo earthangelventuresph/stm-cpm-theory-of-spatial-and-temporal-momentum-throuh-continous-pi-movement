@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "Theory of Spatial and Temporal Momentum through Continuous Pi Movement: A Phase-State Framework with Preregistered Falsification Protocols"
+message: "If you use this work, please cite it using these metadata. Version 1.0 is a Hypothesis and Experimental Protocol Document. No data have been collected."
+type: article
+authors:
+    - family-names: Pangan
+    given-names: Angelica
+    affiliation: Earth Angel Ventures
+    orcid: https://orcid.org/0009-0007-2793-5008
+    email: earthangelventuresph@gmail.com
+version: 1.0
+date-released: 2026-10-25
+license: CC-BY-4.0
+identifiers:
+    - type: url
+    value: https://github.com/earthangelventuresph
+    description: GitHub organization for Earth Angel Ventures
+keywords: [spatial momentum, temporal momentum, phase momentum, continuous pi movement, pi-step, phase-state forecasting, phase-locked loop, frequency drift, falsification, preregistration, action-angle variables]
+repository-code: https://github.com/earthangelventuresph
